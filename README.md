@@ -8,7 +8,7 @@ The Cascade Classifier Training process can be learned from: http://docs.opencv.
 
 The outcome of the Cascade Classifier Training is an XML file which contains several number of stages, for each stage it is constructed by several decision stumbs and boosted by Adaboost algorighm.
 
-The detailed process is shown in the following links:
+The detailed process is shown in the following links:  
 http://docs.opencv.org/2.4/modules/ml/doc/boosting.html  
 http://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html  
 
