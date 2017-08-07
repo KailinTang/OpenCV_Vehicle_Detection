@@ -47,7 +47,7 @@ import numpy as np
 # Cascade classifier trained from the opencv_traincascade utility from OpenCV
 cascade_src = 'cascade.xml'
 # A short video demo
-video_src = 'dataset/demo.mp4'
+video_src = 'dataset/Demo.mp4'
 
 cap = cv2.VideoCapture(video_src)
 car_cascade = cv2.CascadeClassifier(cascade_src)
