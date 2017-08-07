@@ -1,4 +1,4 @@
-# OpenCV_Vehicle_Detection
+# OpenCV_Vehicle_Detection_Tracking_Matching
 Vehicle Detection, Tracking and Matching using OpenCV.
 
 @Python Version: 2.7.12;  
