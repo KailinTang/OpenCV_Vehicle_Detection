@@ -15,4 +15,4 @@ http://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html
 The detection job is based on the Viola-Jones object detection framework and done through the interface provided by OpenCV.  
 The tracking job is based on the Mean-shift tracking algorithm and done through the interface provided by OpenCV.  
 The vehicle matching job is based on the SIFT(Scale-Invariant Feature Transform) algorithm for feature extraction & description and using the kNN algorithm to do the matching between the candidates.  
-The detailed implementation can be found in each folder.  
+The detailed implementation can be found in each folder, please follow the instruction to run the program.  
